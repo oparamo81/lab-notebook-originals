@@ -10,7 +10,7 @@ The documentation below is also an attempt to give students all of the informati
 In order to work with the notebooks that we will share with you, you will need the following:
 1. A Google account to follow these instructions successfully (you don’t need to tell us what it is—your Google Drive will serve as your workspace)
 2. A GitHub account
-3. Your _1010-lab-notebooks_ repository for the course—click on this link to set it up:
+3. Your _1010-lab-notebooks_ repository for the course—click on this link to set it up: https://classroom.github.com/a/7ZTMixoE
 4. Deactivate popup windows for collab.research.google.com—it needs those to occasionally ask your permission to access GitHub
 
 ## Workflow
