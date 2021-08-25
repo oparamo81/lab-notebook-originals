@@ -43,7 +43,7 @@ For _the notebooks that we share with you_, go ahead and click on _Run anyway_. 
 For all other notebooks that you might try from the Internet, it’s a good habit to verify that the source/author of the notebook can be relied upon. And that’s why Colab checks with you first!
 
 ## The Notebooks!
-Click on these notebooks to open them in Colab. Remember, you can’t modify these original versions. Instead, follow the workflow listed above to create a copy for yourself on Google Drive. When you’re ready to submit it, choose _Edit > Clear all outputs_ from the Colab menu then choose _File > Save a copy in GitHub_ to submit it to GitHub.
+Click on these links to open them in Colab. Remember, you can’t modify these original versions. Instead, follow the workflow listed above to create a copy for yourself on Google Drive. When you’re ready to submit it, choose _Edit > Clear all outputs_ from the Colab menu then choose _File > Save a copy in GitHub_ to submit it to GitHub.
 
 * https://colab.research.google.com/github/lmu-cmsi1010-fall2021/experiment-colab/blob/main/ElementsOfProgramming.ipynb
 * https://colab.research.google.com/github/lmu-cmsi1010-fall2021/experiment-colab/blob/main/MoreElements.ipynb
