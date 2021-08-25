@@ -31,6 +31,8 @@ The notebooks that we provide are “final copies” that can’t be modified—
 7. Choose `main` as the Branch into which to save
 8. Provide a _Commit message_—describe what’s different in your version of the notebook
 
+You may repeat the last four steps as frequently as needed in case you want to revise your GitHub copy. Do your work on the _Google Drive copy_ but submit as needed to GitHub.
+
 Here’s an example:
 
 <img width="822" alt="image" src="https://user-images.githubusercontent.com/382242/130737314-f75b9a84-3062-450d-b8af-3377e57b9544.png">
