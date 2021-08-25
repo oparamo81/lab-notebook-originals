@@ -19,7 +19,8 @@ In order to work with the notebooks that we will share with you, you will need t
 ### Overview
 The notebooks that we provide are “final copies” that can’t be modified—that way you can get back to them fresh at any time.
 * To make changes to them, you will make a copy of the notebook in Google Drive
-* To submit a final version, place a copy of your worked-on notebook in the _1010-lab_ repository on GitHub
+* To submit your notebook, place a copy of your worked-on notebook in the _1010-lab-notebooks_ repository on GitHub
+* You may copy your notebook to GitHub as frequently as you like
 
 ### Details
 1. Click on our shared notebook link to open it in Colab
