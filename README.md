@@ -25,7 +25,14 @@ The notebooks that we provide are “final copies” that can’t be modified—
 2. From the Colab menu, choose _File > Save a copy in Drive_ to create your own _private copy_ of the notebook
 3. Work on your copy of the notebook as needed
 4. When you are ready to submit the notebook, first choose _Edit > Clear all outputs_ to reset all of the notebook’s code blocks
-5. Choose _File > Save a copy in GitHub_ to create your _submitted copy_ of the notebook—make sure to set your _1010-lab-notebooks_ repository as the destination of the file to save!
+5. Choose _File > Save a copy in GitHub_ to create your _submitted copy_ of the notebook
+6. Make sure to set your _1010-lab-notebooks_ Repository as the destination of the file to save
+7. Choose `main` as the Branch into which to save
+8. Provide a _Commit message_—describe what’s different in your version of the notebook
+
+Here’s an example:
+
+<img width="822" alt="image" src="https://user-images.githubusercontent.com/382242/130737314-f75b9a84-3062-450d-b8af-3377e57b9544.png">
 
 When running our notebooks, Colab may warn you that the code isn’t safe:
 
