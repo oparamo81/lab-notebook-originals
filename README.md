@@ -10,7 +10,7 @@ The documentation below is also an attempt to give students all of the informati
 In order to work with the notebooks that we will share with you, you will need the following:
 1. A Google account to follow these instructions successfully (you don’t need to tell us what it is—your Google Drive will serve as your workspace)
 2. A GitHub account
-3. Your _1010-lab_ repository for the course—click on this link to set it up:
+3. Your _1010-lab-notebooks_ repository for the course—click on this link to set it up:
 4. Deactivate popup windows for collab.research.google.com—it needs those to occasionally ask your permission to access GitHub
 
 ## Workflow
@@ -25,7 +25,7 @@ The notebooks that we provide are “final copies” that can’t be modified—
 2. From the Colab menu, choose _File > Save a copy in Drive_ to create your own _private copy_ of the notebook
 3. Work on your copy of the notebook as needed
 4. When you are ready to submit the notebook, first choose _Edit > Clear all outputs_ to reset all of the notebook’s code blocks
-5. choose _File > Save a copy in GitHub_ to create your _submitted copy_ of the notebook
+5. Choose _File > Save a copy in GitHub_ to create your _submitted copy_ of the notebook—make sure to set your _1010-lab-notebooks_ repository as the destination of the file to save!
 
 When running our notebooks, Colab may warn you that the code isn’t safe:
 
