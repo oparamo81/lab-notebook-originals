@@ -49,10 +49,13 @@ For all other notebooks that you might try from the Internet, it’s a good habi
 ## The Notebooks!
 Click on these links to open them in Colab. Remember, you can’t modify these original versions. Instead, follow the workflow listed above to create a copy for yourself on Google Drive. When you’re ready to submit it, choose _Edit > Clear all outputs_ from the Colab menu then choose _File > Save a copy in GitHub_ to submit it to GitHub.
 
-* https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/ElementsOfProgramming.ipynb
-* https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/MoreElements.ipynb
+* [Lab00_ProgrammingEnvironment.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab00_ProgrammingEnvironment.ipynb)
+* [ElementsOfProgramming.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/ElementsOfProgramming.ipynb)
+* [MoreElements.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/MoreElements.ipynb)
 
-You can actually synthesize these links manually in case you don’t have access to this page—see the “Loading Public Notebooks Directly from GitHub” section in [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) for those instructions.
+> **Note:** These links are _not_ the same as clicking on the filenames in GitHub—they have additional information that actually open these notebook files in Google Colaboratory.
+>
+> You can actually synthesize these links manually in case you don’t have access to this page—see the “Loading Public Notebooks Directly from GitHub” section in [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) for those instructions.
 
 ## Useful Links
 Google Colab has a host of links (delivered as notebooks themselves) that can help familiarize you with the environment:
