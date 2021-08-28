@@ -1,8 +1,6 @@
-# GitHub-Backed Colab Experiment
+# CMSI 1010 Fall, 2021 Lab Notebook Original Files
 
-Hi! This is an attempt at distributing a notebook-based assignment via GitHub Classroom.
-
-The documentation below is also an attempt to give students all of the information they need in order to proceed, including a suggested workflow.
+Hi! This repository stores “original” versions of our course’s lab notebooks. There’s a learning curve for working with them and creating your own copies; the following instructions seek to get you acquainted with this workflow.
 
 ## Preparation
 [Google Colaboratory](http://colab.research.google.com/) (or just Google Colab for short) is our course’s chosen mechanism for running Python [Jupyter notebooks](https://jupyter.org). Notebooks provide a way to learn about and interact with Python code, without worrying about the operational details involved with computer programming. (you’ll get enough of those in the other assignments!)
@@ -51,8 +49,10 @@ For all other notebooks that you might try from the Internet, it’s a good habi
 ## The Notebooks!
 Click on these links to open them in Colab. Remember, you can’t modify these original versions. Instead, follow the workflow listed above to create a copy for yourself on Google Drive. When you’re ready to submit it, choose _Edit > Clear all outputs_ from the Colab menu then choose _File > Save a copy in GitHub_ to submit it to GitHub.
 
-* https://colab.research.google.com/github/lmu-cmsi1010-fall2021/experiment-colab/blob/main/ElementsOfProgramming.ipynb
-* https://colab.research.google.com/github/lmu-cmsi1010-fall2021/experiment-colab/blob/main/MoreElements.ipynb
+* https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/ElementsOfProgramming.ipynb
+* https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/MoreElements.ipynb
+
+You can actually synthesize these links manually in case you don’t have access to this page—see the “Loading Public Notebooks Directly from GitHub” section in [Using Google Colab with GitHub](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb) for those instructions.
 
 ## Useful Links
 Google Colab has a host of links (delivered as notebooks themselves) that can help familiarize you with the environment:
