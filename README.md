@@ -1,4 +1,6 @@
-# CMSI 1010 Fall, 2021 Lab Notebook Original Files
+**CMSI 1010** Computer Programming & Laboratory, Fall 2021
+
+# Lab Notebook Original Files
 
 Hi! This repository stores “original” versions of our course’s lab notebooks. There’s a learning curve for working with them and creating your own copies; the following instructions seek to get you acquainted with this workflow.
 
@@ -50,8 +52,6 @@ For all other notebooks that you might try from the Internet, it’s a good habi
 Click on these links to open them in Colab. Remember, you can’t modify these original versions. Instead, follow the workflow listed above to create a copy for yourself on Google Drive. When you’re ready to submit it, choose _Edit > Clear all outputs_ from the Colab menu then choose _File > Save a copy in GitHub_ to submit it to GitHub.
 
 * [Lab00_ProgrammingEnvironment.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab00_ProgrammingEnvironment.ipynb)
-* [ElementsOfProgramming.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/ElementsOfProgramming.ipynb)
-* [MoreElements.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/MoreElements.ipynb)
 
 > **Note:** These links are _not_ the same as clicking on the filenames in GitHub—they have additional information that actually open these notebook files in Google Colaboratory.
 >
