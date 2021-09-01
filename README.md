@@ -51,7 +51,13 @@ For all other notebooks that you might try from the Internet, it’s a good habi
 ## The Notebooks!
 Click on these links to open them in Colab. Remember, you can’t modify these original versions. Instead, follow the workflow listed above to create a copy for yourself on Google Drive. When you’re ready to submit it, choose _Edit > Clear all outputs_ from the Colab menu then choose _File > Save a copy in GitHub_ to submit it to GitHub.
 
+### Labs
+
 * [Lab00_ProgrammingEnvironment.ipynb](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/Lab00_ProgrammingEnvironment.ipynb)
+
+### Class Companions
+
+* [Elements of Programming: Values and Types](https://colab.research.google.com/github/lmu-cmsi1010-fall2021/lab-notebook-originals/blob/main/ElementsOfProgramming.ipynb)
 
 > **Note:** These links are _not_ the same as clicking on the filenames in GitHub—they have additional information that actually open these notebook files in Google Colaboratory.
 >
